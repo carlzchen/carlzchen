@@ -1,6 +1,6 @@
 # Hi, I'm Carl 👋
 
-**AI application developer · former auditor · Hong Kong**
+**AI application developer · audit & IT audit background · Hong Kong**
 
 My background is in audit and IT audit at KPMG Hong Kong, so I build AI the way an auditor would want it:
 **every number computed by code, every answer traceable to a source, every important action approved by a person.**
